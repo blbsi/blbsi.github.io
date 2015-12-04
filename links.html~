@@ -1,0 +1,45 @@
+<!DOCTYPE HTML>
+<!--
+	Eventually by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>security links</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header">
+
+<a href="/">... go back</a>
+
+			</header>
+
+				<h1>Interesting Security Links</h1>
+<p>
+If you want to harden your Linux System please check out the following links:
+<br/>
+
+<ul>
+<li><a href="https://benchmarks.cisecurity.org/">CIS security benchmarks provide very good hardening guides for many important open source components (like Apache, Tomcat, etc)</a></li>
+<li><a href="https://www.bsi.bund.de/DE/Home/home_node.html">The BSI is a German Security Institution (Government)</a> </li>
+<li><a href="https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top 10</a></li>
+</ul>
+
+<br/>
+For a quick introduction into securing your systems ... see this video:
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/H-c1LoVx0WY" frameborder="0" allowfullscreen></iframe>
+
+</p>
+
+	</body>
+</html>
