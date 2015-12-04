@@ -29,8 +29,6 @@
 
 First you need to measure - then you can manage. blbsi is a system to automatically calculate a security indicator of a (linux) system. It scans trough all your installed programs and checks configuration files for best practices or known security issues. If you are interested in running blbsi (which is still in beta testing) - please leave your email and we will get back to you shortly.
 
-For more details - see <a href="how-it-works.html">how it works</a>.
-
 </p>
 			</header>
 
